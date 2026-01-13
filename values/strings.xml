@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Lab_Exam_two</string>
+    <string name="welcome_title"> Welcome to  Eco Challenge adventure app</string>
+    <string name="welcome_para">"Ready to make a difference? Join the Eco Challenge, embrace sustainability, and help create a cleaner, greener world!🌱🌍</string>
+    <string name="welcome_button_text">Explore Features</string>
+    <string name="features_topic">Discover How You Can Make a Difference</string>
+
+
+    <string name="feature1">Green Challenges</string>
+    <string name="feature1_description">Take part in exciting challenges and shrink your carbon footprint</string>
+
+    <string name="feature2">Daily Eco Tips</string>
+    <string name="feature2_description">Receive daily tips to live more sustainably and help the planet!</string>
+
+
+    <string name="feature3">Eco-Friendly Product Picks</string>
+    <string name="feature3_description">Discover eco-friendly products and buy them</string>
+
+    <string name="feature_button">Get started</string>
+
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">already have an account? sign In</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forget Password</string>
+    <string name="dont_have_account">Dont have an account? Sign Up</string>
+
+
+    <string name="home_daily_tip">Did you know?</string>
+    <string name="home_daily_tip_description">Plastic takes </string>
+    <string name="home_daily_tip_heighligh"> 400 years to break down!</string>
+
+    <string name="home_product">Newly added products</string>
+
+    <string name="home_challenge_reminder">You’re halfway through the Plastic-Free Week ! move forward! </string>
+
+    <string name="challenge_description">Your weekly Challenges</string>
+
+    <string name="challenge_message"> Three challenges, one goal – challenge yourself this week</string>
+
+
+    <string name="cha1_title">Stop using single-use plastics – go reusable</string>
+    <string name="cha1_desc">Bring your reusable water bottle and shopping bag with you every day this week</string>
+    <string name="cha1_reward">🏆 Earn 30 Eco Points</string>
+
+    <string name="cha2_title">Walk, Bike, or Carpool</string>
+    <string name="cha2_desc">Walk, bike, or carpool 3 days this week – leave the car behind.</string>
+    <string name="cha2_reward">🏆 Earn 55 Eco Points</string>
+
+    <string name="cha3_title">Save Energy, Save the Planet</string>
+    <string name="cha3_desc">Switch off unused lights and electronics, and make the change to LED bulbs.</string>
+    <string name="cha3_reward">🏆 Earn 80 Eco Points</string>
+
+    <string name="c1_main_title">Take on the Eco-Friendly Challenge! 🌿🌎</string>
+    <string name="c1_title"> Try a Bamboo Toothbrush for a Week 🪥🌿</string>
+    <string name="c2_title"> Bring Your Own Bag When You Shop 🛍️♻️</string>
+    <string name="c3_title">use wooden spoon during cooking. 🍲</string>
+
+
+    <string name="tips_title"> Eco-Friendly Tips🌿🌎</string>
+    <string name="tips_1"> 🌳 "Using a reusable water bottle can keep thousands of plastic bottles out of landfills each year." 🌍</string>
+    <string name="tips_2"> "Riding a bicycle instead of driving reduces pollution and keeps you fit.." 🌎</string>
+    <string name="tips_3"> "Using natural soil care methods helps protect the environment and keeps the soil healthy." ♻️</string>
+    <string name="tips_4">  "Using recycled tissues helps reduce waste and save trees." 🌿</string>
+
+
+    <string name="product_text">🌿 Explore sustainable alternatives for a brighter, greener future! 🌎</string>
+    <string name="product_1"> Wooden Pen</string>
+    <string name="product_2"> Wooden Cutlery Set</string>
+    <string name="product_3"> Wooden Hair Brush</string>
+    <string name="product_4"> Wooden Spice Jar </string>
+    <string name="product_5"> Wooden Cup Holder</string>
+    <string name="product_6"> Bamboo Toothbrush</string>
+    <string name="product_button">Where to buy</string>
+    <string name="home_btn">Home</string>
+    <string name="challenge_btn">Challenges</string>
+    <string name="tips_btn">Tips</string>
+    <string name="products_btn">Products</string>
+    <string name="start_btn_challenge">Start</string>
+    <string name="get_started_home_btn">Get started</string>
+    <string name="home_hero_msg">Small steps, big change!  Take on daily challenges and start going green today!</string>
+    <string name="signup_topic">Sign Up</string>
+    <string name="profile_name">EcoNova</string>
+    <string name="profile_address">Green Cycle, Earth</string>
+    <string name="eco_points">Green Points</string>
+    <string name="profile_eco_progress">FRIENDLINESS LEVEL</string>
+    <string name="progress_values">80% Eco-Friendly</string>
+    <string name="eco_badges">Earn Your Green Badges</string>
+    <string name="profile_edit_btn">Edit</string>
+    <string name="sign_topic">Sign In</string>
+    <string name="did_u">Did you Know</string>
+
+
+</resources>
